@@ -1,6 +1,5 @@
-# Machine Learning in Finance (Seminar)
+# Machine Learning in Finance (Seminar) - University of Zurich
 ## Group 1 - 2021
-### Benjamin Zimmermann - University of Zurich
 
 This repository presents the Jupyter notebooks used to produce investment recommendations. Machine Learning Data analysis delivers a buy/hold/sell strategy recommendation for shares in respect of the S&P500. 
 
