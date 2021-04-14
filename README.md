@@ -1,5 +1,6 @@
 # Machine Learning in Finance (Seminar)
 ## Group 1 - 2021
+### Benjamin Zimmermann - University of Zurich
 
 This repository presents the Jupyter notebooks used to produce investment recommendations. Machine Learning Data analysis delivers a buy/hold/sell strategy recommendation for shares in respect of the S&P500. 
 
@@ -13,4 +14,5 @@ HILFSORDNER, Files erklären...
 
 Structure of the Main-file:
 
-For main questions please contact Tim Ehrensperger, Marco Heiniger, Pascal Huser or Marc Tschudi via uzh-E-mail.
+The data analysis is based on the script of Benjamin Zimmermann, handed out in the ML in Finance course in FS2021 at University of Zurich.
+For main questions please contact the authors Tim Ehrensperger, Marco Heiniger, Pascal Huser or Marc Tschudi via their E-mail from the University of Zurich.
