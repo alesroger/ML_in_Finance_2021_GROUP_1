@@ -11,7 +11,7 @@ This repository presents the Jupyter notebooks used to produce investment recomm
 
 - The Data folder contains the performance data of the shares and the S&P 500.
 
-- The strategy-funciton-file contains the helper function for calc
+- The strategy-funciton-file contains the helper function for calculating the response variable.
 
 The data analysis is based on the script of Benjamin Zimmermann, handed out in the ML in Finance course in FS2021 at University of Zurich.
 For main questions please contact the authors Tim Ehrensperger, Marco Heiniger, Pascal Huser or Marc Tschudi via their E-mail from the University of Zurich.
