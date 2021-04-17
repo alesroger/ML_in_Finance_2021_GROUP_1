@@ -3,15 +3,15 @@
 
 This repository presents the Jupyter notebooks used to produce investment recommendations. Machine Learning Data analysis delivers a buy/hold/sell strategy recommendation for shares in respect of the S&P500. 
 
-<b>Buy:</b> A share outperformed the S&P500 by more than 2.5 percentage points for the year. \
-<b>Hold:</b>  A share performed within +/- 2.5% percentage points of the S&P500 for the year. \
-<b>Sell:</b>  A share performed below the S&P500 by more than 2.5 percentage points for the year.
+- The Main-file presents the structure of the data analysis starting with the preparation of the dataset and concluding with the ML algorithms and their scores.
 
-The Main-file presents the structure of the data analysis starting with the preparation of the dataset and concluding with the ML algorithms. The best test-score is achieved with the XX-algorithm delivering a score of XXX.
+- The Summary-file describes the process of the data analysis.
 
-HILFSORDNER, Files erklären...
+- The Presentation-file contains the slides for the presentation on Tuesday, 27.04.2021.
 
-Structure of the Main-file:
+- The Data folder contains the performance data of the shares and the S&P 500.
+
+- The strategy-funciton-file contains the helper function for calc
 
 The data analysis is based on the script of Benjamin Zimmermann, handed out in the ML in Finance course in FS2021 at University of Zurich.
 For main questions please contact the authors Tim Ehrensperger, Marco Heiniger, Pascal Huser or Marc Tschudi via their E-mail from the University of Zurich.
