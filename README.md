@@ -3,7 +3,7 @@
 
 This repository presents the Jupyter notebooks used to produce investment recommendations. Machine Learning Data analysis delivers a buy/hold/sell strategy recommendation for shares in respect of the S&P500. 
 
-- The Main-file presents the structure of the data analysis starting with the preparation of the dataset and concluding with the ML algorithms and their scores. Note: if you want to run the code, set the Kernel to trusted in the top right of the screen and press Kernel > Restart & Run all.
+- The Main-file presents the structure of the data analysis starting with the preparation of the dataset and concluding with the ML algorithms and their scores. Note: if you want to run the code, set the Kernel to trusted in the top right of the screen and press Kernel > Restart & Run all (runtime should not be more than one hour).
 
 - The Summary-file describes the process of the data analysis.
 
